@@ -1,0 +1,17 @@
+D:\Archivos\C#\Archivos_Prog3\bin\Debug\net6.0-windows\Archivos_Prog3.exe
+D:\Archivos\C#\Archivos_Prog3\bin\Debug\net6.0-windows\Archivos_Prog3.deps.json
+D:\Archivos\C#\Archivos_Prog3\bin\Debug\net6.0-windows\Archivos_Prog3.runtimeconfig.json
+D:\Archivos\C#\Archivos_Prog3\bin\Debug\net6.0-windows\Archivos_Prog3.dll
+D:\Archivos\C#\Archivos_Prog3\bin\Debug\net6.0-windows\Archivos_Prog3.pdb
+D:\Archivos\C#\Archivos_Prog3\obj\Debug\net6.0-windows\Archivos_Prog3.csproj.AssemblyReference.cache
+D:\Archivos\C#\Archivos_Prog3\obj\Debug\net6.0-windows\Archivos_Prog3.Form1.resources
+D:\Archivos\C#\Archivos_Prog3\obj\Debug\net6.0-windows\Archivos_Prog3.csproj.GenerateResource.cache
+D:\Archivos\C#\Archivos_Prog3\obj\Debug\net6.0-windows\Archivos_Prog3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\C#\Archivos_Prog3\obj\Debug\net6.0-windows\Archivos_Prog3.AssemblyInfoInputs.cache
+D:\Archivos\C#\Archivos_Prog3\obj\Debug\net6.0-windows\Archivos_Prog3.AssemblyInfo.cs
+D:\Archivos\C#\Archivos_Prog3\obj\Debug\net6.0-windows\Archivos_Prog3.csproj.CoreCompileInputs.cache
+D:\Archivos\C#\Archivos_Prog3\obj\Debug\net6.0-windows\Archivos_Prog3.dll
+D:\Archivos\C#\Archivos_Prog3\obj\Debug\net6.0-windows\refint\Archivos_Prog3.dll
+D:\Archivos\C#\Archivos_Prog3\obj\Debug\net6.0-windows\Archivos_Prog3.pdb
+D:\Archivos\C#\Archivos_Prog3\obj\Debug\net6.0-windows\Archivos_Prog3.genruntimeconfig.cache
+D:\Archivos\C#\Archivos_Prog3\obj\Debug\net6.0-windows\ref\Archivos_Prog3.dll
